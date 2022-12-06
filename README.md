@@ -12,5 +12,5 @@ One Piece is a Japanese manga series written and illustrated by Eiichiro Oda. It
 - **Magazine:** Weekly Shōnen Jump
 - **Genres:** Shonen manga, Fantasy, Action manga, Comedy
 
-**References**
+**Reference**
 - [Wikipedia]([https://www.example.com](https://en.wikipedia.org/wiki/One_Piece))
